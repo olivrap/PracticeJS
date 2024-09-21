@@ -1,9 +1,7 @@
 //aula de exceções
-
 function divisao(divisor, dividendo){
     if (divisor === 0)
         throw new Error('Divisor não pode ser zero');
-
     return dividendo/divisor;
 }
 
