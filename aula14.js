@@ -16,3 +16,6 @@ console.log(msg.toUpperCase()); //tudo maíscula
 console.log(msg.toLowerCase()); //tudo minúscula
 
 console.log(msg2.trim()); //remove os espaços nos finais
+
+console.log(msg2.replace('Segunda', 'RAFAEL'));
+
