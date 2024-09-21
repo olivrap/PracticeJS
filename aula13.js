@@ -19,3 +19,4 @@ function calculaSoma(piso, teto){
 }
 
 console.log('A soma é: ', calculaSoma(piso, teto))
+// 
