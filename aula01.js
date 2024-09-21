@@ -1,7 +1,6 @@
 console.log("Meu primeiro teste")
 
-
-var x = 3;
-var y = 4;
+const x = 3;
+const y = 4;git 
 
 console.log(x + y)
