@@ -23,7 +23,7 @@ function computaTamanhos(linha){
    for (let i=0; i<vetPalavras.length; i++)
     textoFinal = textoFinal+vetPalavras[i].length;
      // console.log(vetPalavras[i].length,'-');
-    //console.log(textoFinal);
+     //console.log(textoFinal);
 }
 
 function escreveTamanho(textoTodo){
@@ -39,4 +39,4 @@ function escreveTamanho(textoTodo){
 //let linhas = quebraLinha(textoTodo);
 //console.log(' o tamanho de tamanho é', countWords('palavra'));
 //console.log('O numero de linhas que temos eh: ',linhas.length);
-computaTamanhos('o meu texto é grande');
+//computaTamanhos('o meu texto é grande');
